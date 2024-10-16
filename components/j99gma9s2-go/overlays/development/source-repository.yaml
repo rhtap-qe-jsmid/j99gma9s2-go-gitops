@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j99gma9s2-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/j99gma9s2-go
